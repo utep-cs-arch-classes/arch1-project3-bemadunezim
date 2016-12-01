@@ -22,4 +22,3 @@ abCircleGetBounds(const AbCircle *circle, const Vec2 *centerPos, Region *bounds)
   }
   regionClipScreen(bounds);
 }
-

@@ -26,5 +26,3 @@ int abCircleCheck(const AbCircle *circle, const Vec2 *circlePos, const Vec2 *pix
 
 #endif
 
-
-

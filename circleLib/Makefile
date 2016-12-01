@@ -36,5 +36,3 @@ load: circledemo.elf
 	mspdebug rf2500 "prog $^"
 
 
-
-

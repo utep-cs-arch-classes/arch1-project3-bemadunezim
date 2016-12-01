@@ -1,4 +1,3 @@
-
 ///////////////////////////////////////////
 // build table chordVec[d] of circle 1/2 widths at distances d from center
 // Code adapted from RobG's EduKit
@@ -94,10 +93,4 @@ int main()
   fclose(chordIncludeFile);
   fclose(circleIncludeFile);
 }
-
-
-
-    
-    
-    
 
